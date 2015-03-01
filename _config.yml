@@ -1,7 +1,7 @@
 # Site wide configuration
 
 locale:     en_US
-url:        //ultinomics.github.io/dantonnoriega.me
+url:        http://ultinomics.github.io/dantonnoriega.me
 
 # Jekyll configuration
 
