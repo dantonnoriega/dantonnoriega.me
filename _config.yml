@@ -1,0 +1,57 @@
+# Site wide configuration
+
+locale:     en_US
+url:        //ultinomics.github.io/dantonnoriega.me
+
+# Jekyll configuration
+
+# permalink:   /:categories/:title/
+markdown:    rdiscount
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+
+# kramdown:
+#   auto_ids: true
+#   footnote_nr: 1
+#   entity_output: as_char
+#   toc_levels: 1..6
+#   use_coderay: false
+
+
+# Site owner
+owner:
+  name: Danton Noriega
+  avatar: bio-photo.jpg
+  bio: "economist. programmer. ultimate player."
+  email: danton.noriega@gmail.com
+  # disqus-shortname:
+  twitter: dantonnoriega
+  # facebook: #username
+  # google:
+  #   plus: #username
+  #   analytics:
+  #   verify:
+  #   ad-client:
+  #   ad-slot:
+  # bing-verify:
+  github: ultinomics
+  stackoverflow: http://stackoverflow.com/users/3987905/danton-noriega
+  # linkedin: #username
+  instagram: dantonnoriega
+  # lastfm: #username
+  # tumblr: #username
+  # pinterest: #username
+  # foursquare: #username
+  # steam: #username
+  # dribbble: #username
+  # youtube: #username
+  # soundcloud: #username
+  # weibo: #username
+  # flickr: #username
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
