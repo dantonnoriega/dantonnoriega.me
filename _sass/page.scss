@@ -34,7 +34,7 @@ body {
 		@include grid(12,2);
 		@include prefix(12,0.5);
 		@include suffix(12,0.5);
-		@include font-rem(16);
+		@include font-rem(24);
 	}
 	@media #{$x-large} {
 		@include grid(12,1.5);
