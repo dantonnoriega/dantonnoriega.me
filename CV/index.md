@@ -2,7 +2,7 @@
 layout: page
 title: Curriculum Vitae
 image:
-  feature: banner_1900_250.jpg
+  feature: lake1_1900x300.jpg
 share: false
 ---
 
