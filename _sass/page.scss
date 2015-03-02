@@ -29,7 +29,6 @@ body {
 	margin-bottom: 1em;
 	float: none;
 	display: block;
-    color: #343434;
 	@include font-rem(24);
 	@media #{$small} {
 		@include grid(12,2);
@@ -84,7 +83,6 @@ body {
 			display: block;
 			padding: 10px 0;
 			decoration: none;
-            color: #343434;
 			border-bottom: 0 solid transparent;
 			@include transition(all .2s);
 			@media #{$small} {
