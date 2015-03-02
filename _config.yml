@@ -1,5 +1,6 @@
 # Site wide configuration
 
+title:      dantonnoriega.me
 locale:     en_US
 url:        http://ultinomics.github.io/dantonnoriega.me
 
