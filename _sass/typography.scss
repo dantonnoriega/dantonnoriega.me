@@ -34,14 +34,12 @@ h6 {
 
 a {
 	text-decoration: none;
-    font-weight: bold;
 	color: $link-color;
 	&:visited {
 		color: $linkcolorvisited;
 	}
 	&:hover {
 		color: $linkcolorhover;
-        text-decoration: underline;
 	}
 	&:focus {
 		outline: thin dotted;
