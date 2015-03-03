@@ -16,7 +16,7 @@ Georgetown University*, Washington, DC
 *California State University at Long Beach*, Long Beach, CA
 **B.S. Mathematics, option in Applied & Computational Math** *August 2006
 *University of California at Irvine*, Irvine, CA
-*Orange Coast Community College,* Costa Mesa, CA
+*Orange Coast Community College*, Costa Mesa, CA
 
 ---
 
