@@ -1,21 +1,4 @@
----
-layout: page
-title: Curriculum Vitae
-image:
-  feature: lake1_1900x300.jpg
-share: false
----
-
-<a href="{{ site.url }}/CV/D_Noriega_CV_March_2015.pdf" class="btn btn-success"> .pdf</a>  
-<a href="{{ site.url }}/CV/D_Noriega_CV_March_2015.md" class="bt n btn-info"> 
-.docx</a>  
-<a href="#" class="btn btn-warning">
-.md</a>
-
----
-
-#### CONTACT
-**Danton Noriega-Goodwin**
+### **Danton Noriega-Goodwin**
 **Department of Economics**, *Georgetown University*
 email: dn95@georgetown.edu
 website: [dantonnoriega.me](http://dantonnoriega.me)
@@ -75,4 +58,3 @@ Statistics. Prefer not to use.
 ### FUN FACTS
 -   Dual citizen of Chile and the US and a native Spanish speaker.
 -   Avid Ultimate Frisbee player.
-
