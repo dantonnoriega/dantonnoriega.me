@@ -6,7 +6,7 @@ image:
 share: false
 ---
 
-<div markdown="block">
+<div>
 <a href="{{ site.url }}/CV/D_Noriega_CV_Dec_2014.pdf" class="btn btn-success"> .pdf</a>
 <a href="#" class="btn btn-info"> 
 .docx</a>
