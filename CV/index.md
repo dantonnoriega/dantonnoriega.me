@@ -6,15 +6,13 @@ image:
 share: false
 ---
 
+<div>
 <a href="{{ site.url }}/CV/D_Noriega_CV_March_2015.pdf" class="btn btn-success"> .pdf</a>  
-<a href="{{ site.url }}/CV/D_Noriega_CV_March_2015.md" class="bt n btn-info"> 
-.docx</a>  
-<a href="#" class="btn btn-warning">
-.md</a>
+</div>
 
 ---
 
-#### CONTACT
+### CONTACT
 **Danton Noriega-Goodwin**
 **Department of Economics**, *Georgetown University*
 email: dn95@georgetown.edu
@@ -37,7 +35,7 @@ Georgetown University*, Washington, DC
 
 ---
 
-### Awards and Honors
+### AWARDS AND HONORS
 
 - Merit Based Fellowship (Economics), Georgetown University *(2011 – 2016)*
 - 2010 STIPDG Outstanding Intern Award, US Department of Transportation *(Summer 2010)*
