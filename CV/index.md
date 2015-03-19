@@ -7,7 +7,7 @@ share: false
 ---
 
 <div>
-<a href="{{ site.url }}/CV/D_Noriega_CV_March_2015.pdf" class="btn btn-success"> .pdf</a>  
+<a href="{{ site.url }}/CV/D_Noriega_CV_March_2015.pdf" class="btn btn-success">Download Full CV</a>  
 </div>
 
 ---
@@ -45,17 +45,31 @@ share: false
 
 ---
 
-### WORK EXPERIENCE
+### CURRENT WORK
 
+- **Teaching Assistant**, Sanford School of Public Policy, *Duke University (Spring 2015)*
+	- Teaching *PubPol 590 Applied Big Data Science Energy Data Analytics and Policy* with Dr. Matthew Harding. Students learn introductory theory about causal inference (taught by Harding) and how to use Python to analyze large datasets (taught by me). The goal is for students to finish the class with the capacity to do basic consulting for energy companies.
+- **Research Assistant**, Duke-UNC BECR Center, *Duke University (January 2015 - Present)*
+	- Clean, explore, and analyze transaction-level food purchasing data provided through a join partnership with the USDA-ERS. Help write papers/proposals and provide most of the analytical results (graphics, tables, etc).
 - **SSRI Visiting Student Research Fellow**, Social Science Research Institute, *Duke University (August 2014 – Present)*	
-	- Providing consulting services to Duke University faculty and students through PARISS. This position – graciously provided by SSRI at Duke University – allows me to continue my dissertation research and my current projects with Dr. Matthew Harding.
+	- Providing consulting services to Duke University faculty and students through PARISS.
+
+---
+
+### Sample of Current Research Projects
+- *“Closing the Nutrition Gap: Policy Simulations Using Scanner Data” (Dissertation Chapter)*
+	- Estimate via simulation the demand-side effect of targeted subsidies (e.g. subsidies of fruits and vegetables) for SNAP eligible participants using transaction-level scanner data of food purchases. The goal is to see if price subsidies are sufficient for closing the “nutrition gap” observed between the low and high income household.
+- *“Disadvantaged and Healthy: Understanding the Purchasing Behavior of Outliers”* with Matthew Harding
+	- On average, disadvantaged homes (impoverished, minority, low education) have worse health outcomes. However, there is a subset of disadvantaged households with great overall health (“outliers”). We study the purchasing behavior of these outlier households to help identify achievable and realistic policy recommendations.
+- *“Understanding the Statistical Properties of IRI Store-based and House-based Scanner Data”* with Matthew Harding and Ya Xue (USDA Grant)
+	- Analysis of food scanner data the USDA purchased from IRI. The goals of the grant can be broadly categorized into assessing the suitability of the IRI for nutrition policy research and comparing the IRI data to other publicly available data sets.
 
 ---
 
 ### PROGRAMMING
 
 #### *Primary*
-- ***R***: 1+ years of experience. Preferred programming language. Conduct most personal/dissertation research and consulting in R. Expert user of the `data.table` package for very large data files.
+- ***R***: 2+ years of experience. Preferred programming language. Conduct most personal/dissertation research and consulting in R. Expert user of the `data.table` package for very large data files.
 - ***Stata***: 3+ years of experience. Taught 3 courses with Stata. Conduct most RA work in Stata. Able to do advance programming, like writing “ado” files.
 - ***Python***: 1.5+ years. Taught myself `pandas`, `numpy`, and `statsmodels` to then teach to my students. Primarily used Python to do text mining and text analysis. Created a program that can automatically tokenize unique ID and text description pairs.
 
