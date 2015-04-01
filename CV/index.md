@@ -56,7 +56,8 @@ share: false
 
 ---
 
-### Sample of Current Research Projects
+### SAMPLE OF CURRENT RESEARCH PROJECTS
+
 - *“Closing the Nutrition Gap: Policy Simulations Using Scanner Data” (Dissertation Chapter)*
 	- Estimate via simulation the demand-side effect of targeted subsidies (e.g. subsidies of fruits and vegetables) for SNAP eligible participants using transaction-level scanner data of food purchases. The goal is to see if price subsidies are sufficient for closing the “nutrition gap” observed between the low and high income household.
 - *“Disadvantaged and Healthy: Understanding the Purchasing Behavior of Outliers”* with Matthew Harding
