@@ -14,22 +14,19 @@ share: false
 
 ### CONTACT
 - **Danton Noriega-Goodwin**
-- email: danton.noriega_at_duke.edu
-- website: [dantonnoriega.me](http://dantonnoriega.me)
-- github: [github.com/ultinomics](github.com/ultinomics)
+- *email*: danton[dot]noriega[at]duke[dot]edu
+- *website*: [dantonnoriega.me](http://dantonnoriega.me)
+- *github*: [github.com/ultinomics](github.com/ultinomics)
 
 ---
 
 ### EDUCATION
 - **Ph.D. Student in Public Policy and Economics**  
 *Duke University -- Sanford School of Public Policy*, Durham, NC
-
 - **M.A. Economics** *February 2013*  
 *Georgetown University*, Washington, DC
-
 - **M.S. Applied Statistics** *May 2011*  
 *California State University at Long Beach*, Long Beach, CA
-
 - **B.S. Mathematics, option in Applied & Computational Math** *August 2006*  
 *University of California at Irvine*, Irvine, CA  
 *Orange Coast Community College*, Costa Mesa, CA
