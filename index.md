@@ -6,7 +6,7 @@ image:
   feature: banner_1900_300.jpg
 ---
 
-Saludos! My name is Danton Noriega-Goodwin. I'm a fourth year PhD student in [Economics at Georgetown University](http://econ.georgetown.edu/), currently visiting Duke University as a Research Assistant at the [Duke-UNC BECR Center](https://becr.sanford.duke.edu/).
+Saludos! My name is Danton Noriega-Goodwin. I'm a PhD student at Duke University's [Sanford School of Public Policy](http://sanford.duke.edu) and a Research Assistant at the [Duke-UNC BECR Center](https://becr.sanford.duke.edu/).
 
 I have a BS in Applied Math from the University of California-Irvine, an MS in Applied Statistics from California State University–Long Beach, and an MA in Economics from Georgetown. My research focus is in applied econometrics using large data sets to study food purchasing behavior. I'm interested in food/nutrition/health inequality and computational methods related to "[big data](http://bigdataeconometrics.com/)". The main chapter of dissertation is on the effectiveness of fruit/vegetable subsidies as a policy and the impact it has on the demand for other products. The other chapters of my dissertation focus on how/what food purchasing behavior contributes to health disparities.
 
