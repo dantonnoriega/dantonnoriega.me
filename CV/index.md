@@ -7,14 +7,14 @@ share: false
 ---
 
 <div>
-<a href="{{ site.url }}/CV/D_Noriega_CV_March_2015.pdf" class="btn btn-success">Download Full CV</a>  
+<a href="{{ site.url }}/CV/D_Noriega_CV_July_2015.pdf" class="btn btn-success">Download Full CV</a>  
 </div>
 
 ---
 
 ### CONTACT
 - **Danton Noriega-Goodwin**
-- email: danton.noriega@duke.edu
+- email: danton.noriega_at_duke.edu
 - website: [dantonnoriega.me](http://dantonnoriega.me)
 - github: [github.com/ultinomics](github.com/ultinomics)
 
@@ -73,13 +73,13 @@ share: false
 ### PROGRAMMING
 
 #### *Primary*
-***R*** – 1.5+ years of experience. Preferred programming language.
+- ***R***: 2+ years of experience. Preferred programming language.
 Conduct most personal/dissertation research and consulting in R. Expert
 user of the `data.table` package for very large data files.
-***Stata*** – 3+ years of experience. Taught 3 courses with Stata.
+- ***Stata***: 3+ years of experience. Taught 3 courses with Stata.
 Conduct most RA work in Stata. Able to do advance programming, like
 writing “ado” files.
-***Python*** – 1.5+ years. Competent user of `pandas`. Primarily use
+- ***Python***: 1.5+ years. Competent user of `pandas`. Primarily use
 Python to do text mining and text analysis.
 
 #### *Secondary*
