@@ -7,7 +7,7 @@ share: false
 ---
 
 <div>
-<a href="{{ site.url }}/CV/D_Noriega_CV_July_2015.pdf" class="btn btn-success">Download Full CV</a>  
+<a href="https://www.dropbox.com/s/16a96ejiut9o2uy/D_Noriega_CV.pdf?dl=0" class="btn btn-success">Download Full CV</a>  
 </div>
 
 ---
