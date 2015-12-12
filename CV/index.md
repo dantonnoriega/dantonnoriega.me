@@ -17,6 +17,7 @@ share: false
 - *email*: danton[dot]noriega[at]duke[dot]edu
 - *website*: [dantonnoriega.me](http://dantonnoriega.me)
 - *github*: [github.com/ultinomics](github.com/ultinomics)
+- *linkedin*: [linkedin.com/in/dantonnoriega](https://www.linkedin.com/in/dantonnoriega)
 
 ---
 
@@ -72,7 +73,7 @@ share: false
 #### *Primary*
 - ***R***: 2+ years of experience. Preferred programming language.
 Conduct most personal/dissertation research and consulting in R. Expert
-user of the `data.table` package for very large data files.
+user of the `data.table` package for very large data files, `ggplot2` for graphics, and `devtools` for package development.
 - ***Stata***: 3+ years of experience. Taught 3 courses with Stata.
 Conduct most RA work in Stata. Able to do advance programming, like
 writing “ado” files.
