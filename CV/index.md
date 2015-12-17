@@ -16,7 +16,7 @@ share: false
 - **Danton Noriega-Goodwin**
 - *email*: danton[dot]noriega[at]duke[dot]edu
 - *website*: [dantonnoriega.me](http://dantonnoriega.me)
-- *github*: [github.com/ultinomics](github.com/ultinomics)
+- *github*: [github.com/ultinomics](https://github.com/ultinomics)
 - *linkedin*: [linkedin.com/in/dantonnoriega](https://www.linkedin.com/in/dantonnoriega)
 
 ---
