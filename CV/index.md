@@ -72,13 +72,12 @@ share: false
 
 ### PROGRAMMING
 
-#### *Primary*
-- **R** 4+ years of experience. Preferred programming language. Expert user of data.table. `R markdown` enthusiast.
-- **Stata** 5+ years. Taught 3 courses with Stata. Used for quickly testing regression models.
-- **Python** 1.5+ years. Competent user of pandas. Taught a program evaluation class using Python. 
-- **Matlab** 2+ years. Primarily used to learn and tinker with Machine Learning.
-- **SAS** 2+ years of experience but last used in 2011 as part of my M.S. in Applied Statistics.
-- **SQL** 1 year. Used to extract data fom mySQL server via RODBC. Knowledge of basic querying and preprocessing.
+- **R** -- 4+ years of experience. Preferred programming language. Expert user of data.table. `R markdown` enthusiast.
+- **Stata** -- 5+ years. Taught 3 courses with Stata. Used for quickly testing regression models.
+- **Python** -- 1.5+ years. Competent user of pandas. Taught a program evaluation class using Python. 
+- **Matlab** -- 2+ years. Primarily used to learn and tinker with Machine Learning.
+- **SAS** -- 2+ years of experience but last used in 2011 as part of my M.S. in Applied Statistics.
+- **SQL** -- 1 year. Used to extract data fom mySQL server via RODBC. Knowledge of basic querying and preprocessing.
 
 ---
 
