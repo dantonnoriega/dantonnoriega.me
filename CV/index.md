@@ -47,8 +47,10 @@ share: false
 
 ### SAMPLE OF CURRENT RESEARCH PROJECTS
 
-- *“Closing the Nutrition Gap: Policy Simulations Using Scanner Data” (Dissertation Chapter)*
-	- Estimate via simulation the demand-side effect of targeted subsidies (e.g. subsidies of fruits and vegetables) for SNAP eligible participants using transaction-level scanner data of food purchases. The goal is to see if price subsidies are sufficient for closing the “nutrition gap” observed between the low and high income household.
+- *“The Impact of Local Food Taxation on Consumer Demand” (Main Dissertation Chapter)*
+    - The taxation of certain food groups varies substantially at the local level. I measure how changes in local tax rates on food affect consumer purchasing behavior, particularly junk foods and beverages. This is accomplished by merging multiple years of local tax data at the municipality-level with a massive data set of food scanner data.
+- *“Panel Methods for High-Frequency Electricity Data” with M. Harding and C. Lamarche (working paper 2015)* 
+    - Attrition can bias regression estimates when attempting to forecast future household energy consumption. We use high-frequency energy panel data to refresh missing data samples from attrition to reduce bias in estimation.
 - *“Disadvantaged and Healthy: Understanding the Purchasing Behavior of Positive Deviants* with Matthew Harding
 	- On average, disadvantaged homes (impoverished, minority, low education) have worse health outcomes. However, there is a subset of disadvantaged households with great overall health ("positive deviants"). We study the purchasing behavior of these outlier households to help identify achievable and realistic policy recommendations.
 - *“Understanding the Statistical Properties of IRI Store-based and House-based Scanner Data”* with Matthew Harding and Ya Xue (USDA Grant)
@@ -71,22 +73,17 @@ share: false
 ### PROGRAMMING
 
 #### *Primary*
-- ***R***: 2+ years of experience. Preferred programming language.
-Conduct most personal/dissertation research and consulting in R. Expert
-user of the `data.table` package for very large data files, `ggplot2` for graphics, and `devtools` for package development.
-- ***Stata***: 3+ years of experience. Taught 3 courses with Stata.
-Conduct most RA work in Stata. Able to do advance programming, like
-writing “ado” files.
-- ***Python***: 1.5+ years. Competent user of `pandas`. Primarily use
-Python to do text mining and text analysis.
-
-#### *Secondary*
-- ***Matlab and Octave***: 2+ years of experience. Primarily used to do Machine Learning testing and matrix intensive computation.
-- ***SAS***: 2+ years of experience as part of my M.S. in Applied Statistics. Prefer not to use.
+- **R** 4+ years of experience. Preferred programming language. Expert user of data.table. `R markdown` enthusiast.
+- **Stata** 5+ years. Taught 3 courses with Stata. Used for quickly testing regression models.
+- **Python** 1.5+ years. Competent user of pandas. Taught a program evaluation class using Python. 
+- **Matlab** 2+ years. Primarily used to learn and tinker with Machine Learning.
+- **SAS** 2+ years of experience but last used in 2011 as part of my M.S. in Applied Statistics.
+- **SQL** 1 year. Used to extract data fom mySQL server via RODBC. Knowledge of basic querying and preprocessing.
 
 ---
 
 ### FUN FACTS
-- Dual citizen of Chile and the US and a native Spanish speaker.
+- Dual citizen of Chile and the US
+- Native Spanish-speaker.
 - Avid Ultimate Frisbee player.
 
