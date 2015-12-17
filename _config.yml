@@ -27,7 +27,7 @@ kramdown:
 owner:
   name: Danton Noriega
   avatar: bio-photo.jpg
-  bio: "economist. programmer. ultimate player."
+  bio: "economist. data scientist. ultimate player."
   email: danton_dot_noriega_at_gmail_dot_com
   # disqus-shortname:
   twitter: dantonnoriega
@@ -40,7 +40,7 @@ owner:
   #   ad-slot:
   # bing-verify:
   github: ultinomics
-  stackoverflow: http://stackoverflow.com/users/3987905/danton-noriega
+  stackoverflow: 3987905/danton-noriega
   # linkedin: #username
   instagram: dantonnoriega
   # lastfm: #username
