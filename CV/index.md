@@ -34,7 +34,7 @@ share: false
 
 ---
 
-### CURRENT WORK
+### RECENT WORK EXPERIENCE
 
 - **Research Assistant**, [Duke-UNC BECR Center](https://becr.sanford.duke.edu), *Duke University (Jan 2015 – Present)*
 	- Data science work investigating food purchasing behavior, food-related health outcomes, and food assistance policy (SNAP/WIC). The aim is to uncover trends that can help BECR design behavioral nudges to improve food choices. Also helping write papers/proposals and providing analytical results (graphics, tables, etc).
