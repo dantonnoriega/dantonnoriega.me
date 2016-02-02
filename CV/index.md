@@ -39,7 +39,7 @@ share: false
 - **Research Assistant**, [Duke-UNC BECR Center](https://becr.sanford.duke.edu), *Duke University (Jan 2015 – Present)*
 	- Data science work investigating food purchasing behavior, food-related health outcomes, and food assistance policy (SNAP/WIC). The aim is to uncover trends that can help BECR design behavioral nudges to improve food choices. Also helping write papers/proposals and providing analytical results (graphics, tables, etc).
 - **Teaching Assistant**, Sanford School of Public Policy, *Duke University (Spring 2015)*
-	- Co-taught *PubPol 590 Applied Big Data Science Energy Data Analytics and Policy* with Dr. Matthew Harding. Students learned introductory theory about causal inference (taught by Harding) and how to use Python to analyze large datasets (taught by me). The goal was for students to finish the class with the capacity to do basic consulting for energy companies.
+	- Co-taught *PubPol 590 Applied Big Data Science Energy Data Analytics and Policy* with Dr. Matthew Harding. Students learned introductory theory about causal inference (taught by Harding) and how to use Python to analyze large datasets and do basic econometric modeling and machine learning (taught by me). The goal was for students to finish the class with the capacity to do basic consulting for energy companies.
 - **SSRI Visiting Student Research Fellow**, Social Science Research Institute, *Duke University (August 2014 – Jan 2015)*	
 	- Provided consulting services to Duke University faculty and students through PARISS.
 
