@@ -36,19 +36,32 @@ share: false
 
 ### RECENT WORK EXPERIENCE
 
-- **Research Assistant**, [Duke-UNC BECR Center](https://becr.sanford.duke.edu), *Duke University (Jan 2015 – Present)*
-	- Data science work investigating food purchasing behavior, food-related health outcomes, and food assistance policy (SNAP/WIC). The aim is to uncover trends that can help BECR design behavioral nudges to improve food choices. Also helping write papers/proposals and providing analytical results (graphics, tables, etc).
+- **Research Assistant**, Durham Children’s Data Center (DCDC), *Duke University (Jan 2017 – Present)*
+	- I'm helping analyze data from Durham County Social Services for DCDC and my dissertation. I'm working with Dr. Ken Dodge, Dr. Beth Gifford, and my co-chair, Dr. Anna Gassman-Pines. 
+- **Data Scientist (Part-time)**, [TransLoc](http://transloc.com/), *Durham (September 2016 - December 2016)*
+	+ Helped refine the multitudes of metrics available to the product team into understandable, actionable information, working exclusively in R. Favorite packages: flexdashboard, DT, highcharter, and the tidyverse (dplyr, readr, tidyr, etc)
+- **Data Science Intern**, [TransLoc](http://transloc.com/), *Durham (May 2016 - August 2016)*
+	+ Helped develop products and packages that simplify working with and understanding transit data. Also learning/experimenting with implementing the "agile" development philosophy but for data science.
+- **Research Assistant**, [Duke-UNC BECR Center](https://becr.sanford.duke.edu), *Duke University (Jan 2015 – May 2016)*
+	- Investigated food purchasing behavior, food-related health outcomes, and food assistance policy (SNAP/WIC). The aim was to uncover trends that can help BECR design behavioral nudges to improve food choices. Also helped write papers/proposals and providing analytical results (graphics, tables, etc).
 - **Teaching Assistant**, Sanford School of Public Policy, *Duke University (Spring 2015)*
 	- Co-taught *PubPol 590 Applied Big Data Science Energy Data Analytics and Policy* with Dr. Matthew Harding. Students learned introductory theory about causal inference (taught by Harding) and how to use Python to analyze large datasets and do basic econometric modeling and machine learning (taught by me). The goal was for students to finish the class with the capacity to do basic consulting for energy companies.
-- **SSRI Visiting Student Research Fellow**, Social Science Research Institute, *Duke University (August 2014 – Jan 2015)*	
-	- Provided consulting services to Duke University faculty and students through PARISS.
+
+---
+
+### CURRENT RESEARCH PROJECTS
+
+- *"The Effectivenes of the Double Up Food Bucks Incentive"* (Main Dissertation Chapter)
+	- Investigating the effectiveness of targeted fruit and vegetable subsidies as a policy for improving the health of SNAP beneficiaries.}
+- *“Understanding the Statistical Properties of IRI Store-based and House-based Scanner Data”* with Matthew Harding and Ya Xue (USDA Grant)
+	- Analysis of food scanner data the USDA purchased from IRI. The goals of the grant can be broadly categorized into assessing the suitability of the IRI for nutrition policy research and comparing the IRI data to other publicly available data sets.
 
 ---
 
 ### PROGRAMMING
 
-- **R** -- 4+ years of experience. Preferred programming language. Expert user of `data.table`. `R markdown` enthusiast.
-- **Stata** -- 5+ years. Taught 3 courses with Stata. Used for quickly testing regression models.
+- **R** -- 5+ years of experience. Preferred programming language. Expert user of `data.table`. `R markdown` enthusiast.
+- **Stata** -- 6+ years. Taught 3 courses with Stata. Used for quickly testing regression models.
 - **Python** -- 2+ years. Competent user of `pandas`. Taught a program evaluation class using Python. 
 - **Matlab** -- 2+ years. Primarily used to learn and tinker with Machine Learning.
 - **SAS** -- 2+ years of experience but last used in 2011 as part of my M.S. in Applied Statistics.
@@ -56,16 +69,9 @@ share: false
 
 ---
 
-### SAMPLE OF CURRENT RESEARCH PROJECTS
+### PACKAGES
 
-- *“The Impact of Local Food Taxation on Consumer Demand” (Main Dissertation Chapter)*
-    - The taxation of certain food groups varies substantially at the local level. I measure how changes in local tax rates on food affect consumer purchasing behavior, particularly junk foods and beverages. This is accomplished by merging multiple years of local tax data at the municipality-level with a massive data set of food scanner data.
-- *“Panel Methods for High-Frequency Electricity Data” with M. Harding and C. Lamarche (working paper 2015)* 
-    - Attrition can bias regression estimates when attempting to forecast future household energy consumption. We use high-frequency energy panel data to refresh missing data samples from attrition to reduce bias in estimation.
-- *“Disadvantaged and Healthy: Understanding the Purchasing Behavior of Positive Deviants* with Matthew Harding
-	- On average, disadvantaged homes (impoverished, minority, low education) have worse health outcomes. However, there is a subset of disadvantaged households with great overall health ("positive deviants"). We study the purchasing behavior of these outlier households to help identify achievable and realistic policy recommendations.
-- *“Understanding the Statistical Properties of IRI Store-based and House-based Scanner Data”* with Matthew Harding and Ya Xue (USDA Grant)
-	- Analysis of food scanner data the USDA purchased from IRI. The goals of the grant can be broadly categorized into assessing the suitability of the IRI for nutrition policy research and comparing the IRI data to other publicly available data sets.
+- [gtfsr](https://github.com/ropenscilabs/gtfsr/) -- for mapping and validation GTFS data.
 
 ---
 
