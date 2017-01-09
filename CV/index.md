@@ -7,7 +7,7 @@ share: false
 ---
 
 <div>
-<a href="https://www.dropbox.com/s/16a96ejiut9o2uy/D_Noriega_CV.pdf?dl=0" class="btn btn-success">Download Full CV</a>  
+<a href="https://www.dropbox.com/s/owug4hkbo5s4fol/D_Noriega_CV.pdf?dl=0" class="btn btn-success">Download Full CV</a>  
 </div>
 
 ---
