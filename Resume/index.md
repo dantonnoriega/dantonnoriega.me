@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Curriculum Vitae
+title: Resume
 image:
   feature: lake1_1900x300.jpg
 share: false
 ---
 
 <div>
-<a href="https://www.dropbox.com/s/dql8ss0ytmi69dn/D_Noriega_CV.pdf?dl=1" class="btn btn-success">Download Full CV</a>  
+<a href="https://www.dropbox.com/s/dql8ss0ytmi69dn/D_Noriega_CV.pdf?dl=1" class="btn btn-success">Download Resume</a>  
 </div>
 
 ---
@@ -16,13 +16,13 @@ share: false
 - **Danton Noriega-Goodwin**
 - *email*: danton[dot]noriega[at]duke[dot]edu
 - *website*: [dantonnoriega.me](http://dantonnoriega.me)
-- *github*: [github.com/ultinomics](https://github.com/ultinomics)
+- *github*: [github.com/dantonnoriega](https://github.com/dantonnoriega)
 - *linkedin*: [linkedin.com/in/dantonnoriega](https://www.linkedin.com/in/dantonnoriega)
 
 ---
 
 ### EDUCATION
-- **Ph.D. Student in Public Policy and Economics**  
+- **Ph.D. in Public Policy** *August 2019*
 *Duke University -- Sanford School of Public Policy*, Durham, NC
 - **M.A. Economics** *February 2013*  
 *Georgetown University*, Washington, DC
@@ -36,7 +36,9 @@ share: false
 
 ### RECENT WORK EXPERIENCE
 
-- **Research Assistant**, Durham Children’s Data Center (DCDC), *Duke University (Jan 2017 – Present)*
+- **Data Scientist**, Apple, *Cupertino, CA (Nov 2017 – Present)*
+	- I'm a member of the Services Forecast and Efficiency team. I model global iCloud demand and help the engineering teams make better decisions with fewer resources.
+- **Research Assistant**, Durham Children’s Data Center (DCDC), *Duke University (Jan 2017 – May 2017)*
 	- I'm helping analyze data from Durham County Social Services for DCDC and my dissertation. I'm working with Dr. Ken Dodge, Dr. Beth Gifford, and my co-chair, Dr. Anna Gassman-Pines. 
 - **Data Scientist (Part-time)**, [TransLoc](http://transloc.com/), *Durham (September 2016 - December 2016)*
 	+ Helped refine the multitudes of metrics available to the product team into understandable, actionable information, working exclusively in R. Favorite packages: flexdashboard, DT, highcharter, and the tidyverse (dplyr, readr, tidyr, etc)
@@ -49,20 +51,18 @@ share: false
 
 ---
 
-### CURRENT RESEARCH PROJECTS
+### DISSERTATION
 
-- *"The Effectivenes of the Double Up Food Bucks Incentive"* (Main Dissertation Chapter)
-	- Investigating the effectiveness of targeted fruit and vegetable subsidies as a policy for improving the health of SNAP beneficiaries.}
-- *“Understanding the Statistical Properties of IRI Store-based and House-based Scanner Data”* with Matthew Harding and Ya Xue (USDA Grant)
-	- Analysis of food scanner data the USDA purchased from IRI. The goals of the grant can be broadly categorized into assessing the suitability of the IRI for nutrition policy research and comparing the IRI data to other publicly available data sets.
+- *"Doubled SNAP Dollars and Nudges: An Analysis of Two Pilot Programs Aimed at Increasing the Purchase of Healthy Foods"*
+	- Investigating the effectiveness of targeted fruit and vegetable subsidies as a policy for improving the health of SNAP beneficiaries.
 
 ---
 
 ### PROGRAMMING
 
-- **R** -- 5+ years of experience. Preferred programming language. Expert user of `data.table`. `R markdown` enthusiast.
+- **R** -- 7+ years of experience. Preferred programming language. Expert user of `data.table`. `R markdown` enthusiast.
 - **Stata** -- 6+ years. Taught 3 courses with Stata. Used for quickly testing regression models.
-- **Python** -- 2+ years. Competent user of `pandas`. Taught a program evaluation class using Python. 
+- **Python** -- 3+ years. Competent user of `pandas`. Taught a program evaluation class using Python. 
 - **Matlab** -- 2+ years. Primarily used to learn and tinker with Machine Learning.
 - **SAS** -- 2+ years of experience but last used in 2011 as part of my M.S. in Applied Statistics.
 - **SQL** -- 1 year. Used to extract data fom mySQL server via `RODBC`. Knowledge of basic querying and preprocessing.
